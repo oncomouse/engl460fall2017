@@ -56,7 +56,16 @@ How do you imagine using collaborative tools for your final project? How have yo
 
 ### Part I: Reflect
 
+Markdown does two things:
+
+1. Simplifies document structure
+1. Abstracts HTML
+
+The first thing makes the structure of a document more apparent. The second makes the materiality of the document more abstracted. Is this a good trade-off? Does it matter? 
+
 ### Part II: Apply
+
+Slack has Markdown enabled in the post editor. Write your entry in Markdown. Try to incorporate some links, lists, and images. How do you like writing in Markdown? Does it change how you plan your entries?
 
 ## Journal Entry 7 – 10.18.2017
 
