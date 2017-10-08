@@ -61,7 +61,7 @@ Markdown does two things:
 1. Simplifies document structure
 1. Abstracts HTML
 
-The first thing makes the structure of a document more apparent. The second makes the materiality of the document more abstracted. Is this a good trade-off? Does it matter? 
+The first thing makes the structure of a document more apparent. The second makes the materiality of the document more abstracted. Is this a good trade-off? Does it matter?
 
 ### Part II: Apply
 
@@ -71,7 +71,13 @@ Slack has Markdown enabled in the post editor. Write your entry in Markdown. Try
 
 ### Part I: Reflect
 
+Many blogging platforms, such as Wordpress, are powered by what is called a [relational database system](https://en.wikipedia.org/wiki/Relational_database). These databases are industrial-strength tools for sorting, storing, and finding information. Jekyll is an important piece of software in that it allows blogging without the need for a DB to be maintained as part of the writing process. This is why Jekyll is referred to as a "static site generator."
+
+However, I'm wondering as you start using Jekyll, maybe even playing around with blogging on it, does Jekyll still end up conforming to Manovich's ideas of "the database" as a cultural form. If so, does this help you better understand online writing?
+
 ### Part II: Apply
+
+What have you done on Jekyll? What do you want to investigate further?
 
 ## Journal Entry 8 – 10.25.2017
 
