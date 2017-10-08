@@ -76,7 +76,13 @@ If you have cloned your Jekyll repo using either GitHub Desktop or Git Kraken, y
 Copy the follow command, paste it into your command line, and press <kbd>ENTER</kbd>:
 
 ~~~
-gem install jekyll
+gem install jekyll bundler
+~~~
+
+Next, in your command line, run the following code:
+
+~~~
+bundle install
 ~~~
 
 Now, we are ready to run Jekyll.
@@ -84,7 +90,7 @@ Now, we are ready to run Jekyll.
 In the command line, run the following command (and remember it, you will be using it **a lot**):
 
 ~~~
-jekyll serve --incremental
+bundle exec jekyll serve --incremental
 ~~~
 
 Jekyll will display some information that looks something like this:
@@ -109,4 +115,4 @@ When you are happy with your edits, you can commit and push back to your GitHub 
 
 Also, if a change you make isn't displaying, check the command line. Jekyll will tell you if you have any errors.
 
-When you are finished working on your site for the moment, type <kbd>Ctrl+C</kbd> (hold down the <kbd>Control</kbd> key and press <kbd>C</kbd>) (and answer "Y" in Windows when it asks you to terminate batch job). Close the command line (quit the program, too, on macOS). You can pick back up again by reopening a command line and running `jekyll serve --incremental` whenever you want to start again.
+When you are finished working on your site for the moment, type <kbd>Ctrl+C</kbd> (hold down the <kbd>Control</kbd> key and press <kbd>C</kbd>) (and answer "Y" in Windows when it asks you to terminate batch job). Close the command line (quit the program, too, on macOS). You can pick back up again by reopening a command line and running `bundle exec jekyll serve --incremental` whenever you want to start again.
