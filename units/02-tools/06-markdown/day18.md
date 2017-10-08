@@ -4,7 +4,7 @@ For class today, I'd like you to complete a task using Markdown and GitHub.
 
 ## Exercise
 
-By Monday, I want you to share (either via DM or in `#01-discussion` on Slack) a link to a GitHub repo with containing, at minimum, the following:
+By Monday, I want you to share (either via DM or in `#01-discussion` on Slack) a link to a GitHub repo containing, at minimum, the following:
 
 1. An image file
 2. A `Readme.md` that contains:
