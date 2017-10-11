@@ -66,6 +66,8 @@ You can change the main color of the website using 8 pre-defined themes in both 
   * <span style="color: #6a9fb5">theme-base-0d</span>
   * <span style="color: #aa759f">theme-base-0e</span>
   * <span style="color: #8f5536">theme-base-0f</span>
+  
+![](https://camo.githubusercontent.com/31722ca812424795bb0c9a6ea99ccdd5fa171c24/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f39383638312f313831373034342f65356230656330362d366636382d313165332d383364372d6163643139343237393761312e706e67)
 
 Now, edit the file `_layouts/default.html`. Find the HTML tag `<body>` in your document. Add a `class` attribute to it and set that to the name of your theme. For instance, if I wanted to use `theme-base-09`, I would edit my BODY tag to read `<body class="theme-base-09">`. Do not forget the quotes!
 
