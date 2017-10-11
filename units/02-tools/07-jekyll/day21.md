@@ -6,6 +6,14 @@ However, to do so, we may have to go a bit outside our comfort zone. Jekyll is w
 
 There are instructions below for macOS and Windows. Please follow your OS's instructions and then continue to the section entitled "Configuring Jekyll"
 
+## Getting a Local Copy
+
+To get started, you will need to clone your website's repository to your local computer, if you have not already done so. In GitHub Desktop, choose File->Clone on the menus at the top. In the list that pops up, filter it to find the `<username>.github.io` repository you have been working with this week.
+
+![](clone.png)
+
+Once that is finished, you can start installing Jekyll.
+
 ## Local Copy in macOS
 
 We have to install a few tools for Jekyll to work. To access a command line on macOS, the program is called `Terminal`. It is located in the `Utilities` folder inside your `Applications` folder.
@@ -42,7 +50,7 @@ To install Home Brew, copy the following code, paste it into a Terminal, and pre
 The installer will ask you a bunch of questions, to which you can just press <kbd>ENTER</kbd>. Also, it will ask for your password, which you should enter when prompted.
 
 When Home Brew is finished installing (it will take a bit), copy the following code, paste it into Terminal, and press <kbd>ENTER</kbd>:
-C:\Windows\System32\cmd.exe /E:ON /K C:\Ruby24-x64\bin\setrbvars.cmd
+
 ~~~
 brew install ruby
 ~~~
@@ -107,11 +115,11 @@ Configuration file: /Users/apilsch/Projects/lanyon/_config.yml
   Server running... press ctrl-c to stop.
 ~~~
 
-Note where it says "Server Address". The value after the colon and the space is a URL for your local Jekyll server (you're running a web server on your laptop!). It's probably [http://localhost:4000/lanyon/](http://localhost:4000/lanyon/), so you can click there if it matches. Either way, open that URL in your web browser (don't forget the trailing slash; it matters to Jekyll).
+Note where it says "Server Address". The value after the colon and the space is a URL for your local Jekyll server (you're running a web server on your laptop!). It's probably [http://localhost:4000/](http://localhost:4000/), so you can click that link if it matches. Either way, open that URL in your web browser (don't forget the trailing slash; it matters to Jekyll).
 
 You are now looking at a local copy of your website. As you change files in your text editor, Jekyll will rebuild the site. Reloading the page will display the most recent version.
 
-When you are happy with your edits, you can commit and push back to your GitHub repo and your website will update.
+However, the changes you make are local to your computer. You have to commit them and push them back to the master repo on GitHub's server before they will be live on the Internet.
 
 Also, if a change you make isn't displaying, check the command line. Jekyll will tell you if you have any errors.
 
