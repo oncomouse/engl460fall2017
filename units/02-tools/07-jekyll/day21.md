@@ -75,6 +75,28 @@ It will ask you again which components to install but will display an empty set 
 
 **You are ready to use Jekyll. Continue below!**
 
+## Install Git Command Line Tools (optional)
+
+There are some situations that just can't be solved using GitHub Desktop or Git Kraken. For those situations, you will need the `git` command available on your computer.
+
+You will not need these commands today, but you may need them in the future. Come back to this material if you find you cannot fix something in GitHub Desktop.
+
+### Installing Git Command Line Tools on Windows
+
+To install command line git on your Windows machine, you need to download [Git for Windows](https://git-scm.com/download/win), if you have not already done so. In addition to a very rudimentary GUI client, this package will install `git` for your command line.
+
+You may need to restart your command line or reboot your computer after the installation for the changes to take effect.
+
+### Installing Git Command Line Tools on macOS
+
+To install command line git on your macOS machine, we can use Home Brew, just as we did to install Ruby. Open a Terminal (open the Applications folder, find the Utilities folder, and Terminal is there) and run:
+
+~~~
+brew install git
+~~~
+
+To install the `git` command.
+
 ## Configuring Jekyll
 
 Now that we have a working Ruby, we can begin to set Jekyll up.
@@ -123,4 +145,4 @@ However, the changes you make are local to your computer. You have to commit the
 
 Also, if a change you make isn't displaying, check the command line. Jekyll will tell you if you have any errors.
 
-When you are finished working on your site for the moment, type <kbd>Ctrl+C</kbd> (hold down the <kbd>Control</kbd> key and press <kbd>C</kbd>) (and answer "Y" in Windows when it asks you to terminate batch job). Close the command line (quit the program, too, on macOS). You can pick back up again by reopening a command line and running `bundle exec jekyll serve --incremental` whenever you want to start again.
+When you are finished working on your site for the moment, type <kbd>Ctrl+C</kbd> (hold down the <kbd>Control</kbd> key and press <kbd>C</kbd>) (and answer "Y" in Windows when it asks you to terminate batch job). Close the command line (quit the program, too, on macOS). You can pick back up again by reopening a command line from your GitHub graphical client and running `bundle exec jekyll serve --incremental` whenever you want to start again.
