@@ -83,7 +83,11 @@ What have you done on Jekyll? What do you want to investigate further?
 
 ### Part I: Reflect
 
+We've worked with two very different digital narratives this week: *Keep Tradition Secure* and games made with [Twine](https://twinery.org). Compare and contrast the two approaches to digital narrative, paying special attention to the way both use the affordances of the digital and whether these uses are effective.
+
 ### Part II: Apply
+
+We saw the educational example on Wednesday, but do you imagine other contexts, beyond games, in which Twine might be useful? If so, what would those be? If not, why do you think Twine is mostly about making games?
 
 ## Journal Entry 9 – 11.01.2017
 
@@ -94,21 +98,3 @@ Now that we have studied several different digital technologies, which do you pr
 ### Part II: Apply
 
 What kind of argument do you want to make with your final project? What kinds of technologies will you use to do this? What kind of technologies will you have to investigate, that we have not covered, that you might need? Consider this a first draft of your project proposal. This journal entry may be particularly useful for finding a group for your final project, as well.
-
-## Journal Entry 10 – 11.08.2017
-
-### Part I: Reflect
-
-### Part II: Apply
-
-## Journal Entry 11 – 11.15.2017
-
-### Part I: Reflect
-
-### Part II: Apply
-
-## Journal Entry 12 – 11.29.2017
-
-### Part I: Reflect
-
-### Part II: Apply
