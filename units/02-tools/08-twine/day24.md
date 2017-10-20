@@ -2,7 +2,6 @@
 
 * [Building a Dungeon Crawler in Twine 2](https://www.youtube.com/watch?v=5_gbzdRVdAc)
 * [Harlowe Syntax Reference](https://twinery.org/wiki/harlowe:reference)
-*
 
 ## Reading
 
