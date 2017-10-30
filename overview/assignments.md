@@ -93,6 +93,8 @@ After your proposal has been approved by me (and been evaluated by your peers, i
 
 For instance, if you are making something using [Twine](https://twinery.org), your mockup could be a collection of note cards that map out the space of your story. If you are making a website, you might create a [wireframe](https://en.wikipedia.org/wiki/Website_wireframe) or a series of rough drawings to outline how the site will work. If you are creating a video, you might create a [storyboard](https://en.wikipedia.org/wiki/Storyboard). How you do this is up to you, but the mockup needs to give some sense of how the finished product will work.
 
+Some other ideas for genres and forms of proposal can be found on the notes for [Day 28](../units/03-practice/10-brainstorm/day28.md)
+
 #### Artifact
 
 This is the central focus of the project. You will need to create the artifact you described in your proposal and have demoed via your mock-up.
